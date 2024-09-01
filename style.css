@@ -1,4 +1,10 @@
-p
+p.blue
+{
+ font-family:Impact;
+ color:#D70040;
+ font-size:30px;
+}
+p.red
 {
  font-family:Impact;
  color:#D70040;
